@@ -17,3 +17,8 @@
 
 - MySQL as a database..... Apache server was used
 - Any editor of choice could be used to read the web-based project files...PHP and HTML and CSS for design
+.
+.
+.
+.
+.
